@@ -63,8 +63,9 @@ a {
   margin: 48px 0px;
   display: flex;
   flex-direction: row;
-  gap: 24px;
-  flex-basis: 0.75vw;
+  gap: 60px;
+  /* flex-basis: 0.75vw; */
+  padding: 0 90px;
   align-items: center;
   justify-content: space-between;
 }
@@ -91,6 +92,36 @@ a {
 }
 .hero-image img {
   width: 400px;
+}
+.section2 {
+    margin: 48px 0;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+.section2-text {
+color: #1f2937;
+font-size: 36px;
+font-weight: 1000;
+}
+.section2-images {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 16px;
+}
+.section2-imagebox img {
+    width: 200px;
+    height: 200px;
+    border: #3882f6 solid 4px;
+
+}
+.section2-imagebox figcaption {
+    width: 200px;
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
 }
 .footer {
   padding: 40px;
