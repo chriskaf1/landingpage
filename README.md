@@ -7,3 +7,4 @@ https://www.pexels.com/photo/winking-black-and-brown-puppy-2023384/ Dominika Ros
 https://www.pexels.com/photo/a-dog-barking-near-a-metal-fence-4506902/ Manel Vazquez
 https://www.pexels.com/photo/siberian-husky-sticking-its-tongue-out-4206707/ Kateryna Babaieva
 https://www.pexels.com/photo/brown-and-white-american-pit-bull-terrier-with-brown-costume-825949/ Gilberto Reyes
+https://captoring.tumblr.com/post/78460482061 4w-k
